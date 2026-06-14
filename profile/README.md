@@ -1,10 +1,12 @@
 <div align="center">
+  
+<img width="2172" height="724" alt="IMG_9206" src="https://github.com/user-attachments/assets/2404967f-10b5-40bd-b070-378f678e0548" />
 
 # Linked Layer · $LINKED
 
 ### Shared memory for teams & agents
 
-A **token-gated context layer** over all your tools — collected into a
+A **token-gated context layer** over all your tools - collected into a
 permission-aware graph and served to people and AI agents in one call:
 `recall(query, scope)`.
 
@@ -20,6 +22,7 @@ activity into one living, **permission-aware** memory that both people and AI
 agents can query — and it only ever returns what the caller is already allowed to
 see (it fails closed).
 
+
 **How it works:** connect your sources → build a permission-aware context graph →
 an LLM distills decisions, the "why" and action items → recall it via chat, the
 Context API, or the **MCP server**.
@@ -31,5 +34,5 @@ Context API, or the **MCP server**.
 
 ### Links
 
-- 🌐 Website — [linkedlayer.xyz](https://linkedlayer.xyz)
-- 📖 Whitepaper — [linkedlayer.xyz/whitepaper](https://linkedlayer.xyz/whitepaper)
+- 🌐 Website - [linkedlayer.xyz](https://linkedlayer.xyz)
+- 📖 Whitepaper - [linkedlayer.xyz/whitepaper](https://linkedlayer.xyz/whitepaper)

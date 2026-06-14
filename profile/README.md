@@ -10,7 +10,7 @@ A **token-gated context layer** over all your tools - collected into a
 permission-aware graph and served to people and AI agents in one call:
 `recall(query, scope)`.
 
-🌐 **[linkedlayer.xyz](https://linkedlayer.xyz)**  ·  ⛓ **Solana**
+ **[linkedlayer.xyz](https://linkedlayer.xyz)**  ·  **Solana**
 
 </div>
 
@@ -27,12 +27,12 @@ see (it fails closed).
 an LLM distills decisions, the "why" and action items → recall it via chat, the
 Context API, or the **MCP server**.
 
-- 🔒 **Permission-aware by default** — retrieval filtered through each source's ACL at query time
-- 🤖 **One primitive, two audiences** — humans ask in plain language; agents call `recall()` over MCP
-- 📎 **Cited & traceable** — every answer links back to its exact sources
-- 🪙 **`$LINKED` on Solana** — hold to use; agents pay per call via x402; fees fuel buyback & burn
+-  **Permission-aware by default** — retrieval filtered through each source's ACL at query time
+-  **One primitive, two audiences** — humans ask in plain language; agents call `recall()` over MCP
+-  **Cited & traceable** — every answer links back to its exact sources
+-  **`$LINKED` on Solana** — hold to use; agents pay per call via x402; fees fuel buyback & burn
 
 ### Links
 
-- 🌐 Website - [linkedlayer.xyz](https://linkedlayer.xyz)
-- 📖 Whitepaper - [linkedlayer.xyz/whitepaper](https://linkedlayer.xyz/whitepaper)
+-  Website - [linkedlayer.xyz](https://linkedlayer.xyz)
+-  Whitepaper - [linkedlayer.xyz/whitepaper](https://linkedlayer.xyz/whitepaper)
